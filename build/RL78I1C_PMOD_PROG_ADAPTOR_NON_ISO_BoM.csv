@@ -1,0 +1,5 @@
+"#","Reference","Qty","Value","Footprint","DNP","Digikey p/n","Manufacturer p/n","Manufacturer"
+"1","J1","1","E2 Lite 14P","Connector_PinHeader_2.54mm:PinHeader_2x07_P2.54mm_Vertical","","MHC14K-ND","N2514-6002-RB","3M"
+"2","J2","1","RL78/I1C 5P","Connector_PinHeader_2.54mm:PinHeader_1x05_P2.54mm_Vertical","","732-61300511821-ND","61300511821","Wurth Elektronic"
+"3","R1","1","3k9","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","DNP","13-RC0603FR-133K9LCT-ND","RC0603FR-133K9L","YAGEO"
+"4","R2","1","1k","Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder","DNP","311-1.00KHRCT-ND","RC0603FR-071KL","YAGEO"
